@@ -84,8 +84,8 @@
   </main>
 
   <footer>
-    <div class="footer-col">© 2025 Gunasri</div>
-    <div class="footer-col">Follow me @guna_dev</div>
+    <div class="footer-col">© 2025 Devadharshini</div>
+    <div class="footer-col">Follow me @dharshini</div>
   </footer>
 
 </body>
