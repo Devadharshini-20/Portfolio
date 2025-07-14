@@ -21,7 +21,7 @@
 
   <main>
     <section class="intro-section">
-      <h2>Gunasri</h2>
+      <h2>Devadharshini</h2>
       <p>Frontend Developer</p>
       <div class="button-group">
         <a href="#" class="btn">Download</a>
